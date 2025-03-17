@@ -1,0 +1,4 @@
+C:/Users/Tiany/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/project.dir
+C:/Users/Tiany/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/tests.dir
+C:/Users/Tiany/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiany/Downloads/project-starter-files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
